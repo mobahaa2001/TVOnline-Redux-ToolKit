@@ -9,7 +9,7 @@ const Footer = () => (
           <a href="#" className="footer-logo">
             <img src={logo} alt="TVOnline" className="logo" />
           </a>
-          <h5 className="text-uppercase">Hello Friend!</h5>
+          <h5 className="text-uppercase">TVOnline</h5>
           <p>
             This is a new front-end project with HTML, CSS, BootStrap,
             JavaScript, React, React Redux, Redux, and Redux ToolKit.
