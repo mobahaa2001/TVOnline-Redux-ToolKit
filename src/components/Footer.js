@@ -12,7 +12,7 @@ const Footer = () => (
           <h5 className="text-uppercase">Hello Friend!</h5>
           <p>
             This is a new front-end project with HTML, CSS, BootStrap,
-            JavaScript, React, and Redux.
+            JavaScript, React, React Redux, Redux, and Redux ToolKit.
           </p>
         </div>
 
