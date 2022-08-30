@@ -145,9 +145,6 @@ body {
 }
 
 .container {
-  max-width: 120rem;
-  padding: 0 2.2rem;
-  margin: 0 auto;
   color: #555;
 }
 
